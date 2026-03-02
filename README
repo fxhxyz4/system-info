@@ -1,0 +1,8 @@
+sudo chmod +x ./system_info.sh
+./system_info.sh
+
+------------------------------
+
+sudo chmod +x ./dir_sort.sh
+./dir_sort.sh
+
