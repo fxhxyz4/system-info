@@ -4,5 +4,8 @@ sudo chmod +x ./system_info.sh
 ------------------------------
 
 sudo chmod +x ./dir_sort.sh
-./dir_sort.sh
+./dir_sort.sh <pathToFolder> <select sort mode: ext|size>
+
+Example: ./dir_sort.sh ~/Desktop ext
+Example: ./dir_sort.sh ~/Desktop size
 
